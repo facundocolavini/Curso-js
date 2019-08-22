@@ -1,0 +1,10 @@
+Proyecto pagina web completa 
+1.Enmaquetado HTML y  de la WEB -- OK 
+2.Funcionalidad JS para galerias post con jason galeria de imagenes.--OK
+3.Cambiador de temas (trabajos con DOM y css) Listado dinamico de los Post  -- OK
+4.Scrolls suavizado (Con JQUERY efectos)
+5.LocalStorage
+6.Acordeon (desplegable)
+7.momentjs para hacer un reloj para actualizar la hora
+8.Formulario de contacto como recibir esa  informacion y validar (ponerle mensajes de error)
+/*

@@ -1,0 +1,17 @@
+TypeScript y POO en jS
+
+1 JSON
+2 Entorno de desarrollo
+3 Primeros pasos en TypeSript
+4 Variables y tipado
+5 Programacion orientada a objetos
+6 Clases , metodos y propiedades
+7 Constructores,Interfaces y Herencias
+8 Decoradores
+
+ TyScript 
+ Tiene 85% de Js normal
+ Tipados fuerte
+ Desarrollado por Microsoft 
+ Se utiliza dentro de Angular
+ Todo lo que vemos en TypeScript se puede utilizar en JavaSript salvo tipado fuerte

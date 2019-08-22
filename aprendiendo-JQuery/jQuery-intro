@@ -1,0 +1,17 @@
+'use stricts'
+//Es una libreria para JavaScript que nos permite hacer  peticiones AJAX, animaciones.Funcionalidades compatibilidad con otros compatibilidad con otros exploradores web.Y tenemos Plugins para hacer mas sencillos los diseños y hacer cualquier cosa en el Frontend.
+Proyecto monolitico : Front y back estan conectados .(Symphony ,) , se necesita siempre JavaScript y JQuery. SPA el back en tenemos una API
+Basico
+
+1-Que es?,Como integrarlo a una pagina web,diferencias entre versiones.
+2- Selectores : Como trabajar con Selectores.ccs para selecionar elemento del DOM etiquetas ,class , como utilizar metodos find y parent de JQUEY
+3- Como se trabaja con los Eventos de JQuery , raton , click dbclick, blur , mouthmove etc.
+4-Como hacer animaciones,y tambien efectos , trabajar con Dom , para modificar textos , hacer transiciones , callbacks para hacer cierta accion.
+5-Como hacer peticiones asicronas , AJAX, metodo load por gets , post, como trabajar con el metodo dolar.Ajax.
+
+
+Avanzado
+6-JQuery UI:Nos permite manipular la intefaz de las pagina web por los plugins para complementar y como incuir JQuery en un proyecto 
+7-Animaciones : Como hacer animaciones e interaciones dentro de la pagina  , dragaballm , un elemento redireccionable, un elemento redimensionable, un elemento que lo soltamos en un div y pasa algo.Y animaciones que se le agregan a la libreria de JQuery
+8-Plugins y widgets : Como utilizar los plugins y los widgets  que tiene JQuery UI , como hacer cuadros de dialogos como hacer unas tabs.Como se usan y buscar en internet.
+9-Proyecto JavaScript : Se hace un proyecto complreto donde esta  integrado HTML + JavaScript + JQuery.
